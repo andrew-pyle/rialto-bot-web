@@ -1,2 +1,2 @@
-# rialto-bot-web
+# 🎥 rialto-bot-web
 Website for rialto-bot
